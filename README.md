@@ -1,7 +1,7 @@
 Hi! My name is Francisco (Olá! Meu nome é Francisco)
 
-- I’m currently working with Back-End development (Atualmente trabalho com desenvolvimento Back-End)
-- And learning Python and Data Science (E estudo Python e Ciência de Dados)
+- I’m currently working with Back-End development
+- And learning Python and Data Science
 
 <div> 
   <a href = "mailto:it.francisconeto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
