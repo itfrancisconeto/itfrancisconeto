@@ -1,4 +1,4 @@
-Hi! My name is Francisco (Olá! Meu nome é Francisco)
+Hi! My name is Francisco.
 
 - I’m currently working with Back-End development
 - And learning Python and Data Science
